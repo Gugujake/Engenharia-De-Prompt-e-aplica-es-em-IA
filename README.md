@@ -5,7 +5,7 @@ Repositório criado em função da matéria e notar a evolução com o aprendiza
 Missão 01:
 Crie um prompt simple e mostre o resultado
 
-PROMPT:entre no mundo do marketing como um estrategista dos melhores! Desenhe um plano que me leve a faturar 1000 reais vendendo um site, apenas o poder das redes sociais, me mostre cada passo para dominar esse jogo!
+PROMPT:entre no mundo do marketing como um estrategista dos melhores! Desenhe um plano que me leve a faturar 1000 reais vendendo um site, apenas com o poder das redes sociais, me mostre cada passo para dominar esse jogo!
 
                                                                         RESULTADO
 Plano para faturar R$1.000 vendendo um site nas redes sociais
